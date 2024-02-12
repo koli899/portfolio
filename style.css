@@ -322,7 +322,7 @@ section{
 .img-box img{
     width: 100%;
     max-width: 450px;
-    height: auto;
+    height: 100%;
 }
 
 .liquid-shape{
