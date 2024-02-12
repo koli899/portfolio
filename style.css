@@ -128,7 +128,7 @@ section{
 
 .home{
     min-height: 100vh;
-    height: 800px;
+    height: 100%;
     width: 100%;
     display: grid;
     grid-template-columns: repeat(2,1fr);
